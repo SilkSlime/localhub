@@ -1,0 +1,11 @@
+.env
+data/public/*
+!data/public/.gitkeep
+data/user/*
+!data/user/.gitkeep
+
+# logs/*
+# !logs/.gitkeep
+
+# config/*
+# !config/.gitkeep
